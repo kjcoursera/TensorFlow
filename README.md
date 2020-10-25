@@ -1,2 +1,2 @@
 # TensorFlow
-Learning Machine Learning with TensorFlow 
+Machine Learning with TensorFlow 
